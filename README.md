@@ -1,4 +1,4 @@
 # hello-world
 Hello world
 
-I am a Ghostbuster
+Fishpod is the worst game ever, except for ET, that is the worst game ever in history
